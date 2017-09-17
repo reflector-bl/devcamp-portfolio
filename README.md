@@ -1,6 +1,6 @@
 # README DevcampPortfolio
 
-This README would normally document whatever steps are necessary to get the
+#Some Content
 application up and running.
 
 Things you may want to cover:
